@@ -8,9 +8,9 @@ Very Easy Bot || Telegaram Bot ||Simple Welcome Message Bot|| BX Botz TG Updates
 <p align="middle">
 <img src="https://badgen.net/badge/Name/BX_Botz/FF33FF?icon=awesome&labelColor=0080FF"></a>
 <img src="https://badgen.net/badge/Skills/😞/purple?icon=terminal&labelColor=red"></a>
-<a href="https://telegram.dog/MRK_yt"><img src="https://img.shields.io/badge/Telegram-Link-blue.svg?logo=telegram"></a>
-<a href="https://github.com/MRK-YT"><img src="https://badgen.net/badge/Follow%20on%20/Github/80FF00?icon=github&labelColor=black"></a>
-<a href="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"><img src="https://img.shields.io/badge/Youtube-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
+<a href="https://telegram.dog/Mufaz123"><img src="https://img.shields.io/badge/Telegram-Link-blue.svg?logo=telegram"></a>
+<a href="https://github.com/MufazTG"><img src="https://badgen.net/badge/Follow%20on%20/Github/80FF00?icon=github&labelColor=black"></a>
+<a href="https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ"><img src="https://img.shields.io/badge/Update-Channel-FF3333.svg?logo=youtube&logoColor=FF3333"></a>
 <p align="left">
 </p>                                                           
                                                     
