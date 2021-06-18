@@ -10,7 +10,7 @@ Very Easy Bot || Telegaram Bot ||Simple Welcome Message Bot|| BX Botz TG Updates
 <img src="https://badgen.net/badge/Skills/😞/purple?icon=terminal&labelColor=red"></a>
 <a href="https://telegram.dog/Mufaz123"><img src="https://img.shields.io/badge/Telegram-Link-blue.svg?logo=telegram"></a>
 <a href="https://github.com/MufazTG"><img src="https://badgen.net/badge/Follow%20on%20/Github/80FF00?icon=github&labelColor=black"></a>
-<a href="https://t.me/BX_Botz"><img src="https://img.shields.io/badge/Update-Channel-FF3333.svg?logo=logo=telegram=FF3333"></a>
+<a href="https://t.me/BX_Botz"><img src="https://img.shields.io/badge/Update-Channel-FF3333.svg?logo=telegram=FF3333"></a>
 <p align="left">
 </p>                                                           
                                                     
